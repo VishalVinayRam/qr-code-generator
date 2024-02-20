@@ -19,6 +19,9 @@ When you insert your details into the GUI and click on Generate QR, then the pre
   ```
   pip install tk
   ```
+
+
+
   ```
   pip install tk-tools
   ```
